@@ -10,7 +10,22 @@ npx pod-install
 npx react-native run-ios
 ```
 
-3 System info
+3 Then get the error
+```
+** BUILD FAILED **
+
+
+The following build commands failed:
+	CompileSwiftSources normal x86_64 com.apple.xcode.tools.swift.compiler
+	CompileSwift normal x86_64 /Users/daydream/test/testIterableSDK/ios/Pods/Iterable-iOS-SDK/swift-sdk/Internal/DependencyContainer.swift
+	CompileSwift normal x86_64 /Users/daydream/test/testIterableSDK/ios/Pods/Iterable-iOS-SDK/swift-sdk/Internal/DeviceInfo.swift
+	CompileSwift normal x86_64 /Users/daydream/test/testIterableSDK/ios/Pods/Iterable-iOS-SDK/swift-sdk/Internal/IterableHtmlMessageViewController.swift
+(4 failures)
+
+```
+
+
+System info
 
 ```
 System:
