@@ -28,6 +28,7 @@ The following build commands failed:
 System info
 
 ```
+Xcode Version 11.6 (11E708)
 System:
     OS: macOS 10.15.7
     CPU: (8) x64 Intel(R) Core(TM) i7-4770HQ CPU @ 2.20GHz
